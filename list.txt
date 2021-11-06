@@ -41824,4 +41824,15 @@
 0.0.0.0    افلام-سكس.com
 0.0.0.0    سكس.cc
 0.0.0.0    pornhub.org
-0.0.0.0    scrolller.com
+0.0.0.0    4chan.org
+0.0.0.0    4channel.org
+0.0.0.0    boards.4chan.org
+0.0.0.0    boards.4channel.org
+0.0.0.0	   4plebs.org
+0.0.0.0	   4archive.org
+0.0.0.0	   4chanarchives.org
+0.0.0.0	   archived.moe
+0.0.0.0	   4chansearch.com
+0.0.0.0	   wakarimasen.moe
+0.0.0.0	   archiveofsins.com
+0.0.0.0	   scrolller.com
