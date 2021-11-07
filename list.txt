@@ -41836,4 +41836,3 @@
 0.0.0.0	   archive.wakarimasen.moe
 0.0.0.0	   archiveofsins.com
 0.0.0.0	   scrolller.com
-127.0.0.1    facebook.com
