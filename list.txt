@@ -41833,6 +41833,7 @@
 0.0.0.0	   4chanarchives.org
 0.0.0.0	   archived.moe
 0.0.0.0	   4chansearch.com
-0.0.0.0	   wakarimasen.moe
+0.0.0.0	   archive.wakarimasen.moe
 0.0.0.0	   archiveofsins.com
 0.0.0.0	   scrolller.com
+0.0.0.0    facebook.com
